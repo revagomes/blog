@@ -43,7 +43,7 @@
         "fs-extra": "0.8.1",
         "knex": "0.5.8",
         "lodash": "2.4.1",
-        "moment": "2.4.0",
+        "moment": "2.29.2",
         "node-polyglot": "0.3.0",
         "node-uuid": "1.4.1",
         "nodemailer": "0.5.13",
