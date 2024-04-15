@@ -33,7 +33,7 @@
     "engineStrict": true,
     "dependencies": {
         "bcryptjs": "0.7.10",
-        "bookshelf": "0.6.1",
+        "bookshelf": "0.6.2",
         "busboy": "0.0.12",
         "colors": "0.6.2",
         "connect-slashes": "1.2.0",
@@ -42,7 +42,7 @@
         "express-hbs": "0.7.9",
         "fs-extra": "0.8.1",
         "knex": "0.5.8",
-        "lodash": "2.4.1",
+        "lodash": "4.17.17",
         "moment": "2.4.0",
         "node-polyglot": "0.3.0",
         "node-uuid": "1.4.1",
